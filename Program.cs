@@ -9,8 +9,14 @@
             //BubbleSort bubbleSort = new BubbleSort();
             //bubbleSort.DisplayNumbers();
 
-            InsertionSort insertionSort = new InsertionSort();
-            insertionSort.Display();
+            //InsertionSort insertionSort = new InsertionSort();
+            //insertionSort.Display();
+
+            //BinarySearch binarySearch= new BinarySearch();
+            //binarySearch.WordList();
+
+            Anagram anagram = new Anagram();
+            anagram.DispayAnagram();
 
         }
 
