@@ -6,8 +6,13 @@
         {
             Console.WriteLine("Welcome to Data structure algorithm practice problem");
 
-            BubbleSort bubbleSort = new BubbleSort();
-            bubbleSort.DisplayNumbers();
+            //BubbleSort bubbleSort = new BubbleSort();
+            //bubbleSort.DisplayNumbers();
+
+            InsertionSort insertionSort = new InsertionSort();
+            insertionSort.Display();
+
         }
+
     }
 }
